@@ -1,0 +1,16 @@
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\bin\Debug\netstandard2.0\GestureRecognizer.deps.json
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\bin\Debug\netstandard2.0\GestureRecognizer.dll
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\bin\Debug\netstandard2.0\ref\GestureRecognizer.dll
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\bin\Debug\netstandard2.0\GestureRecognizer.pdb
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.csproj.AssemblyReference.cache
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.AssemblyInfoInputs.cache
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.AssemblyInfo.cs
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.dll
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\ref\GestureRecognizer.dll
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer\obj\Debug\netstandard2.0\GestureRecognizer.pdb

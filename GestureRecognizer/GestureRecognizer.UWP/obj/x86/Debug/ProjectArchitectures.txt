@@ -1,0 +1,1 @@
+C:\Users\Sonal\Downloads\GestureRecognizer1275300722\GestureRecognizer\GestureRecognizer.UWP\GestureRecognizer.UWP.csproj;x86

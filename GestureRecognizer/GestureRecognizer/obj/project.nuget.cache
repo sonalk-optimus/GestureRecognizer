@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/ZM7N1Ksr7MhFNnIZMVWyUZvGsRaVS8eU1EDHIi0VoLB11qOVg1YBbDJ0nJA3FO6fMz8zpE3VDO0ELvBXFsYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sonal\\Downloads\\GestureRecognizer1275300722\\GestureRecognizer\\GestureRecognizer\\GestureRecognizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sonal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\syncfusion.licensing\\19.4.0.52\\syncfusion.licensing.19.4.0.52.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\syncfusion.xamarin.core\\19.4.0.52\\syncfusion.xamarin.core.19.4.0.52.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\syncfusion.xamarin.datasource\\19.4.0.52\\syncfusion.xamarin.datasource.19.4.0.52.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\19.4.0.52\\syncfusion.xamarin.gridcommon.19.4.0.52.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\syncfusion.xamarin.sflistview\\19.4.0.52\\syncfusion.xamarin.sflistview.19.4.0.52.nupkg.sha512",
+    "C:\\Users\\Sonal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
